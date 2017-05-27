@@ -22,7 +22,7 @@ To get some more vitamins in:
 
 * Bell peppers, **diced**
 
-* Frozen chunks of shredded spinach
+* Frozen chunks of chopped spinach
 
 ### Filling and seasoning ideas
 
