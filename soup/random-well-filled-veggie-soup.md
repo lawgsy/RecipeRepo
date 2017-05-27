@@ -4,25 +4,35 @@
 
 ## Ingredients
 
-### Random vegetable examples
+### Random vegetable ideas
 
-1. Celeriac or parsley, **diced**
+To fill you up:
 
-2. Potato, **diced**
+* Celeriac, **diced**
 
-3. Any kind of carrot, **diced**
+* Potato, **diced**
 
-4. Carrot green \(leafy bits\), **cut**
+* Any kind of carrot, **sliced or diced**
 
-5. Frozen chunks of shredded spinach
+* Bell peper, **diced**
 
-### Filling and seasoning
+To get some more vitamins in:
 
-1. Riceroni
+* Carrot green \(leafy bits\), **cut**
 
-2. Stock cubes \(_enough for the amount of soup you require_\)
+* Bell peppers, **diced**
 
-3. Salt, pepper
+* Frozen chunks of shredded spinach
+
+### Filling and seasoning ideas
+
+* Riceroni
+
+* Stock cubes \(_enough for the amount of soup you require_\)
+
+* Ras el hanout \(arabic spice blend\)
+
+* Salt, pepper
 
 
 
