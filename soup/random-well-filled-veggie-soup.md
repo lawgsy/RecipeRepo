@@ -30,7 +30,7 @@ To get some more vitamins in:
 
 * Riceroni
 
-* Stock cubes/powder \(_enough for the amount of soup you require_\), whichever flavour
+* Stock cubes/powder \(_enough for the amount of soup you require_\), whichever flavour \(or just use salt instead\)
 
 * Ras el hanout \(arabic spice blend\)
 
