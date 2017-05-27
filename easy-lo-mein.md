@@ -42,7 +42,13 @@
 
 4. Serve immediately
 
+
+
+## Variation
+
+Add some lemon or lime juice to the sauce
+
 ---
 
-Inspired by \[Damn delicious\]\([http://damndelicious.net/2014/10/03/easy-lo-mein/\](http://damndelicious.net/2014/10/03/easy-lo-mein/%29\)
+Inspired by \[Damn delicious\]\([http://damndelicious.net/2014/10/03/easy-lo-mein/](http://damndelicious.net/2014/10/03/easy-lo-mein/%29\)\)
 
