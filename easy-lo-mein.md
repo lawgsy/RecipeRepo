@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-1. Brussel sprouts, \*\*chopped\*\*
+1. Brussel sprouts, **chopped**
 
-2. Sugar snaps, snow/sugar peas or string beans, \*\*halved\*\*
+2. Sugar snaps, snow/sugar peas or string beans, **halved**
 
-3. Carrots, \*\*julienned\*\*
+3. Carrots, **julienned**
 
-4. Fresh \(baby\) spinach, \*\*chopped\*\*
+4. Fresh \(baby\) spinach, **chopped**
 
-5. Champignons, \*\*sliced\*\*
+5. Mushrooms, **sliced**
 
 6. Similar veggies
 
@@ -32,9 +32,9 @@
 
 2. Cook noodles according to package
 
-3. Add remaining ingredients to work, one by one:
+3. Add remaining ingredients to wok, one by one:
 
-   1. Start with veggies like carrots, sprouts, champignons, until tender
+   1. Start with veggies like carrots, sprouts, mushrooms, until tender
 
    2. Continue with spinach and sugar snaps, until spinach has wilted
 
@@ -44,5 +44,5 @@
 
 ---
 
-Inspired by \[Damn delicious\]\([http://damndelicious.net/2014/10/03/easy-lo-mein/\](http://damndelicious.net/2014/10/03/easy-lo-mein/\)\)
+Inspired by \[Damn delicious\]\([http://damndelicious.net/2014/10/03/easy-lo-mein/\](http://damndelicious.net/2014/10/03/easy-lo-mein/%29\)
 
