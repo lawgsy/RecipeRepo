@@ -1,8 +1,6 @@
-Easy lo mein
+# Easy lo mein
 
-
-
-\#\# Ingredients
+## Ingredients
 
 1. Brussel sprouts, \*\*chopped\*\*
 
@@ -18,11 +16,7 @@ Easy lo mein
 
 7. Egg noodles
 
-
-
-\#\# Sauce
-
-
+## Sauce
 
 1. Soy sauce
 
@@ -32,9 +26,7 @@ Easy lo mein
 
 4. Ground ginger/ginger powder
 
-
-
-\#\# Method
+## Method
 
 1. Mix sauce ingredients together
 
@@ -42,21 +34,15 @@ Easy lo mein
 
 3. Add remaining ingredients to work, one by one:
 
-    1. Start with veggies like carrots, sprouts, champignons, until tender
+   1. Start with veggies like carrots, sprouts, champignons, until tender
 
-    2. Continue with spinach and sugar snaps, until spinach has wilted
+   2. Continue with spinach and sugar snaps, until spinach has wilted
 
-    3. Add noodles and sauce to wok and gently toss to combine
+   3. Add noodles and sauce to wok and gently toss to combine
 
 4. Serve immediately
 
+---
 
-
-----
-
-
-
-Inspired by \[Damn delicious\]\(http://damndelicious.net/2014/10/03/easy-lo-mein/\)
-
-
+Inspired by \[Damn delicious\]\([http://damndelicious.net/2014/10/03/easy-lo-mein/\](http://damndelicious.net/2014/10/03/easy-lo-mein/\)\)
 
