@@ -22,13 +22,15 @@ To get some more vitamins in:
 
 * Bell peppers, **diced**
 
+* Mushrooms
+
 * Frozen chunks of chopped spinach
 
 ### Filling and seasoning ideas
 
 * Riceroni
 
-* Stock cubes \(_enough for the amount of soup you require_\)
+* Stock cubes \(_enough for the amount of soup you require_\), whichever flavour
 
 * Ras el hanout \(arabic spice blend\)
 
