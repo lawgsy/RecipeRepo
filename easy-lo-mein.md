@@ -2,7 +2,7 @@
 
 ---
 
-## Ingredients {#ingredients}
+## Ingredients
 
 1. Brussel sprouts, **chopped**
 
