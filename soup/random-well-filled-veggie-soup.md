@@ -18,7 +18,7 @@ To fill you up:
 
 To get some more vitamins in:
 
-* Carrot green \(leafy bits\), **cut**
+* Carrot green \(leafy bits\), **chopped**
 
 * Bell peppers, **diced**
 
